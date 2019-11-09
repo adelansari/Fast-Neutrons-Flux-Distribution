@@ -2,7 +2,6 @@
 %*   Project                  *%
 %*   Adel Ali Ansari          *%
 %*   U00038673                *%
-%*   Problem 2                *%
 %******************************%
 clear all
 clc
